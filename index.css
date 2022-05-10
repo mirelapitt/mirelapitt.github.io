@@ -342,7 +342,7 @@ ul {
 .desk_list,
 .face_list {
   display: flex;
-  color: #4B5563;
+  color: #4b5563;
   list-style: disc;
   margin-bottom: 24px;
 }
