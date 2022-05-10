@@ -59,7 +59,7 @@ main {
   font-style: normal;
   font-size: 18px;
   line-height: 20px;
-  color: #6070ff;
+  color: #0f27ff;
   margin: 16px;
   margin-top: -34px;
 }
@@ -95,7 +95,7 @@ main {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-  color: #7f8cff;
+  color: #0f27ff;
   margin-top: 7px;
 }
 
@@ -342,7 +342,7 @@ ul {
 .desk_list,
 .face_list {
   display: flex;
-  color: #7a869a;
+  color: #4B5563;
   list-style: disc;
   margin-bottom: 24px;
 }
@@ -450,7 +450,7 @@ h4 {
 
 input {
   height: 3rem;
-  width: 100%;
+  width: 96%;
   color: #6070ff;
   margin-left: 1rem;
   font-weight: 500;
@@ -492,8 +492,8 @@ form {
   float: left;
 }
 
-.msg,
-.msg2 {
+#msg,
+#msg2 {
   display: flex;
   flex-direction: column;
   background-color: #fff;
@@ -533,7 +533,7 @@ form {
   padding-right: 15px;
 }
 
-.text1 {
+#text1 {
   width: 96%;
 }
 
@@ -542,7 +542,7 @@ form {
   .my-logo {
     font-size: 20px;
     font-weight: 600;
-    color: #6070ff;
+    color: #0f27ff;
     padding-left: 130px;
   }
 
@@ -585,9 +585,9 @@ form {
 
   .third-para {
     line-height: 70px;
-    color: #7f8cff;
+    color: #0f27ff;
     margin-left: 174px;
-    margin-top: -182px;
+    margin-top: -10%;
   }
 
   .social_links {
@@ -606,7 +606,7 @@ form {
 
   .third-para2 {
     line-height: 70px;
-    color: #7f8cff;
+    color: #0f27ff;
     margin: 0 auto;
     margin-bottom: -157px;
   }
@@ -615,7 +615,7 @@ form {
     background-image: url('./images_desk/backgroundf]contactform.jpg');
     background-position: 15px 20px;
     background-size: cover;
-    height: 95vh;
+    height: 112vh;
     justify-content: center;
     align-items: center;
     margin: -20px -37px;
